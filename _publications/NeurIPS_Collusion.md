@@ -1,0 +1,13 @@
+---
+title: "Secret collusion among AI agents: Multi-agent deception via steganography"
+collection: publications
+category: conferences
+permalink: /NeurIPS_Collusion
+excerpt: 'Our work is the first to formalize and investigate secret collusion among frontier foundation models, identifying it as a critical area in AI Safety and outlining a comprehensive research agenda to mitigate future risks of collusion between generative AI systems'
+date: 2024-12-07
+venue: 'Neural Information Processing Systems'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/file/861f7dad098aec1c3560fb7add468d41-Paper-Conference.pdf'
+citation: 'Motwani S, Baranchuk M, Strohmeier M, Bolina V, Torr P, Hammond L, Schroeder de Witt C. Secret collusion among AI agents: Multi-agent deception via steganography. Advances in Neural Information Processing Systems. 2024 Dec 16;37:73439-86.'
+---
+
+Recent advancements in generative AI suggest the potential for large-scale interaction between autonomous agents and humans across platforms such as the internet. While such interactions could foster productive cooperation, the ability of AI agents to circumvent security oversight raises critical multi-agent security problems, particularly in the form of unintended information sharing or undesirable coordination. In our work, we establish the subfield of secret collusion, a form of multi-agent deception, in which two or more agents employ steganographic methods to conceal the true nature of their interactions, be it communicative or otherwise, from oversight. We propose a formal threat model for AI agents communicating steganographically and derive rigorous theoretical insights about the capacity and incentives of large language models (LLMs) to perform secret collusion, in addition to the limitations of threat mitigation measures. We complement our findings with empirical evaluations demonstrating rising steganographic capabilities in frontier single and multi-agent LLM setups and examining potential scenarios where collusion may emerge, revealing limitations in countermeasures such as monitoring, paraphrasing, and parameter optimization. Our work is the first to formalize and investigate secret collusion among frontier foundation models, identifying it as a critical area in AI Safety and outlining a comprehensive research agenda to mitigate future risks of collusion between generative AI systems
