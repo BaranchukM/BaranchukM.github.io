@@ -18,26 +18,30 @@ Work experience
 ======
 * November 2024 - Present: Data & AI Engineer
   * bunq B.V.
-  * Duties includes: Updates and improvements to template
+    
+* November 2023 - April 2024: Capital Markets & Treasury Intern
+  * National Bank of Canada
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022: Data Intern
+  * Finch Insights
+    
+* Fall 2021 & Summer 2022: Data Science Intern
+  * Nuance + Microsoft (Nuance was acquired by Microsoft in 2021)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020 & Summer 2021: Summer Technology Analyst
+  * Morgan Stanley
+    
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Generative AI
+  * LLM, RLHF and Multi-Agent Systems
+  * AI Safety/Security (AI-exploitation Evals)
+  * Tools & Frameworks: AutoGen, ElasticSearch (RAG) 
+* Python
+  * PyTorch, NetworkX, Transformers
+  * FastAPI, Airflow, Apache Kafka
+* Cloud Computing (AWS)
 
 Publications
 ======
