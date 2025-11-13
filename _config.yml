@@ -25,9 +25,9 @@ author:
   avatar           : "portrait.png"
   name             : "Mikhail Baranchuk"
   pronouns         : # example: "she/her"  
-  bio              : "AI Researcher & Data Engineer"
-  location         : "Amsterdam"
-  employer         : # Name
+  bio              : "Software Dev & AI Researcher"
+  location         : "Toronto"
+  employer         : "Google"
   uri              : # URL
   email            : "baranchukmikhail+wb@gmail.com" 
 
