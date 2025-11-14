@@ -16,7 +16,10 @@ Education
 
 Work experience
 ======
-* November 2024 - Present: Data & AI Engineer
+* July 2025 - Present: Software Eng.
+  * Google
+
+* November 2024 - June 2025: Data & AI Engineer
   * bunq B.V.
     
 * November 2023 - April 2024: Capital Markets & Treasury Intern
